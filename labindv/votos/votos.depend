@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708529130 source:c:\users\joset\onedrive\escritorio\proyectosp12024\labindv\votos\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
